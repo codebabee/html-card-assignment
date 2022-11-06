@@ -1,0 +1,28 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+}
+div {
+  border: 1px solid black;
+  padding: 20px;
+  background-color:#210303;
+  color: white;
+  font-family: 'GT Eesti Display',-apple-system,system-ui,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';
+  width: 30%;
+  border-radius: 10px;
+  margin: auto;
+  position: relative;
+}
+button {
+  background-color: white;
+  border-radius: 40px;
+  color: black;
+  padding: 20px;
+}
+select {
+  width: 10%;
+  background: none;
+  color: white;
+  background-color: #210303;
+}
